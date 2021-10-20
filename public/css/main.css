@@ -1,0 +1,9 @@
+.nav-tags__header a {
+  display: inline-block !important; }
+
+.nav-tags__header .c-symbol {
+  fill: #7cbd41; }
+
+.nav-tags__header.collapsed .c-symbol {
+  -webkit-transform: rotate(180deg);
+          transform: rotate(180deg); }
